@@ -81,24 +81,24 @@ The **IT Helpdesk & Operations Center** helps IT teams manage support tickets, t
 <div align="left">
 
 ### Login Screen
-![Login](assets/screenshots/login.png)
-*Secure authentication with API key*
+![Login](client/src/assets/screenshots/login.png)
+> Secure authentication with API key
 
 ### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-*Real-time statistics and activity monitoring*
+![Dashboard](client/src/assets/screenshots/dashboard.png)
+> Real-time statistics and activity monitoring
 
 ### Create Ticket
-![Create Ticket](assets/screenshots/create-ticket.png)
-*Simple form for submitting support requests*
+![Create Ticket](client/src/assets/screenshots/create-ticket.png)
+> Simple form for submitting support requests
 
 ### Ticket Management
-![Ticket Table](assets/screenshots/ticket-table.png)
-*Search, filter, and manage all tickets*
+![Ticket Table](client/src/assets/screenshots/ticket-table.png)
+> Search, filter, and manage all tickets
 
 ### Audit Trail
-![Audit Panel](assets/screenshots/audit-panel.png)
-*Complete audit log with restore functionality*
+![Audit Panel](client/src/assets/screenshots/audit-panel.png)
+> Complete audit log with restore functionality
 
 </div>
 
@@ -164,8 +164,8 @@ Access the app at http://localhost:5173
 
 | Header | Value | Required |
 |--------|-------|----------|
-| `x-api-key` | Your API key from `.env` | ✅ Yes |
-| `x-actor` | Username (e.g., j.doe) | ✅ Yes |
+| `x-api-key` | Your API key from `.env` | Yes |
+| `x-actor` | Username (e.g., j.doe) | Yes |
 
 ### Endpoints
 
@@ -286,7 +286,6 @@ For questions, feedback, or collaboration opportunities:
 - LinkedIn: [linkedin.com/in/latifah-al-hussain](https://linkedin.com/in/latifah-al-hussain)
 - Portfolio: [https://latifah-alhussain.pages.dev/](https://latifah-alhussain.pages.dev/)
 - Email: latifah.alhussain0@gmail.com
-=======
 
 
 If you find this project helpful, feel free to ⭐ the repository!
