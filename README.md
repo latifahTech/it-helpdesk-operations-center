@@ -1,29 +1,5 @@
 # IT Helpdesk & Operations Center
-
 > A complete IT service management system for handling support tickets, monitoring operations, and maintaining secure audit trails.
-<div align="center">
-
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-</div>
-
-## 📑 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
-- [Quick Start](#-quick-start)
-- [API Documentation](#-api-documentation)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-
----
 
 ## 📋 Overview
 
@@ -37,6 +13,33 @@ The **IT Helpdesk & Operations Center** helps IT teams manage support tickets, t
 - Soft-delete with restore functionality
 
 ---
+
+<div align="left">
+
+### Login Screen
+![Login](client/src/assets/screenshots/login.png)
+> Secure authentication with API key
+
+### Dashboard
+![Dashboard](client/src/assets/screenshots/dashboard.png)
+> Real-time statistics and activity monitoring
+
+### Create Ticket
+![Create Ticket](client/src/assets/screenshots/create-ticket.png)
+> Simple form for submitting support requests
+
+### Ticket Management
+![Ticket Table](client/src/assets/screenshots/ticket-table.png)
+> Search, filter, and manage all tickets
+
+### Audit Trail
+![Audit Panel](client/src/assets/screenshots/audit-panel.png)
+> Complete audit log with restore functionality
+
+</div>
+
+---
+
 
 ## ✨ Features
 
@@ -73,34 +76,6 @@ The **IT Helpdesk & Operations Center** helps IT teams manage support tickets, t
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB, Mongoose |
 | **Auth** | API Key (Header-based) |
-
----
-
-## 🖼️ Screenshots
-
-<div align="left">
-
-### Login Screen
-![Login](client/src/assets/screenshots/login.png)
-> Secure authentication with API key
-
-### Dashboard
-![Dashboard](client/src/assets/screenshots/dashboard.png)
-> Real-time statistics and activity monitoring
-
-### Create Ticket
-![Create Ticket](client/src/assets/screenshots/create-ticket.png)
-> Simple form for submitting support requests
-
-### Ticket Management
-![Ticket Table](client/src/assets/screenshots/ticket-table.png)
-> Search, filter, and manage all tickets
-
-### Audit Trail
-![Audit Panel](client/src/assets/screenshots/audit-panel.png)
-> Complete audit log with restore functionality
-
-</div>
 
 ---
 
